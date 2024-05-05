@@ -48,5 +48,5 @@ To get started with the **Disease Progression Model** solution repository, follo
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>
+ 
     
