@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Disease Progression Model - Solution for Disease Progression Model
 Solution for Disease Progression Model
 
@@ -9,8 +11,6 @@ Welcome to the solution **Disease Progression Model** - an example for your proj
 Solution for Disease Progression Model
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
