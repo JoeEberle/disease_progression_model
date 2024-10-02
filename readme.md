@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Disease Progression Model - Key Uses of a Data Science Storyboard:
-Key Uses of a Data Science Storyboard:
+# Disease Progression Model - Solution for Disease Progression Model
+Solution for Disease Progression Model
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Disease Progression Model** - an example for your projects
 
-Key Uses of a Data Science Storyboard:
+Solution for Disease Progression Model
 
 ![Image image_filename](sample.png)
 
